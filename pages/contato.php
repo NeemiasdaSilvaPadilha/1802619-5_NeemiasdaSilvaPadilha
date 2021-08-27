@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="css/style.css">    
     <title>FRUTO - Doces Online | Contato</title>
 </head>
-
 <main>
     <div class="container">
         <div class="container-fluid px-5 py-5 pb-4">

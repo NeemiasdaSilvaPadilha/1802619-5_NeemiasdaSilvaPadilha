@@ -20,7 +20,6 @@ if(isset($_GET['i'])){
 }
     //header
     include 'pages/header.php';
-
     //mains
     switch ($pages) {
         case 'sobre_nos':
