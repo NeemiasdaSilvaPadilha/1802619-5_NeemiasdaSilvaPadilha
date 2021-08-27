@@ -37,7 +37,6 @@
             <br>Após isso é só levar para a geladeira e quando estiver na temperatura ideal, basta ir colocando nos potinhos de plástico com tampa 
             <br>para sair vendendo. Oferecer algum tipo de acompanhante para seu produto é interessante, então poderá oferecer alguma cobertura, 
             <br>leite condensado e farinha láctea que são produtos que tem uma boa aceitação com a salada de frutas.
-
         </div> 
 <!-- opções de entrega -->
         <div class="container">
