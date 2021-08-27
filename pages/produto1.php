@@ -1,5 +1,5 @@
 <?php
-    include 'data/produtos.php'
+    include 'dados/produtos.php'
 ?>
 <head>
     <title>FRUTO - Doces Online| Potinho 01</title>
@@ -16,8 +16,8 @@
                 <div class="mt-5">                    
                     <p class="mb-0">Compre agora:</p>
                     <p class="display-1">R$ <?php echo $arr['1']['price'] ?><span class="fs-6">/UN</span></p>
-                    <button type="button" class="btn btn-success btn-lg me-2">Encomendar Agora</button>
-                    <button type="button" class="btn btn-outline-success btn-lg">Solicitar uma Prova</button>                
+                    <p><a type="button" class="btn btn-outline-success btn-lg" href="?i=contato">Encomendar Agora</a></p>
+                    <p><a type="button" class="btn btn-outline-success btn-lg" href="?i=contato">Solicitar Amostra Grátis</a></p>           
                 </div>            
             </div>                        
             <img src="./img/potinho01.png" width="400px" height="400px">            

@@ -10,7 +10,7 @@
     <title>FRUTO - Doces Online | Início</title>
 </head>
 <?php
-    include 'data/produtos.php';
+    include 'dados/produtos.php';
 ?>
 <main>
     <div class="container marketing">
